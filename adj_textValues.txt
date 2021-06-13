@@ -1,0 +1,4 @@
+bunny	0	daffy	duck
+0	bugs	1	1
+1	1	bunny	0
+elmer	fudd	0	0
